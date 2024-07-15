@@ -1,0 +1,6 @@
+{
+  "name": "scrape",
+  "devDependencies": {
+    "@clack/prompts": "0.7.0"
+  }
+}
